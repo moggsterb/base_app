@@ -10,7 +10,7 @@ end
 gem 'sass-rails',   '~> 3.2.3'
 
 group :production do
-	# gem "pg"
+	gem "pg"
 end
 
 group :assets do
